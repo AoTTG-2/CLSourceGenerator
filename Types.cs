@@ -14,6 +14,8 @@ namespace CustomLogicSourceGen
         public const string CLPropertyBinding = CLRootNamespace + "CLPropertyBinding";
         public const string CLMethodBinding = CLRootNamespace + "CLMethodBinding";
         
+        public const string CLParams = CLRootNamespace + "CLParams";
+        
         public const string BuiltinClassInstance = CLRootNamespace + "BuiltinClassInstance";
         
         public static class Attributes
